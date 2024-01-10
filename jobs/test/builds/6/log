@@ -1,0 +1,9 @@
+Started by user [8mha:////4DIxrUD/sZdl1fmvuoUehxPtBi91497dC7O9GfSUHPKsAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgY+/dLi1CL9xOxEM0NDIwsAklkJ1sMAAAA=[0mAkash Naik
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/test
+[test] $ /bin/sh -xe /tmp/jenkins17709375814526554000.sh
++ sudo -s /home/ubuntu/big2.sh 5 6
+sudo: a terminal is required to read the password; either use the -S option to read from standard input or configure an askpass helper
+sudo: a password is required
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

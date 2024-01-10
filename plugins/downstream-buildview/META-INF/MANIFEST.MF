@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: Maven Archiver 3.6.0
+Build-Jdk-Spec: 11
+Specification-Title: Downstream build view
+Specification-Version: 0.0
+Implementation-Title: Downstream build view
+Implementation-Version: 69.v16da_b_2c36f6c
+Group-Id: org.jvnet.hudson.plugins
+Short-Name: downstream-buildview
+Long-Name: Downstream build view
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Downstream+buildview+pl
+ ugin
+Plugin-Version: 69.v16da_b_2c36f6c
+Hudson-Version: 2.361.4
+Jenkins-Version: 2.361.4
+Plugin-Developers: 
+Plugin-ScmUrl: https://github.com/jenkinsci/downstream-buildview-plugin
+

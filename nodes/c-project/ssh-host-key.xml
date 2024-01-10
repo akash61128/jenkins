@@ -1,0 +1,5 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<hudson.plugins.sshslaves.verifiers.HostKey plugin="ssh-slaves@2.947.v64ee6b_f87b_c1">
+  <algorithm>ssh-ed25519</algorithm>
+  <key>AAAAC3NzaC1lZDI1NTE5AAAAIC+LPAzE1gL3jO0WasOEtKNM2kxXQTLjSySyyutQMXFK</key>
+</hudson.plugins.sshslaves.verifiers.HostKey>

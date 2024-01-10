@@ -1,0 +1,8 @@
+Started by user [8mha:////4DIxrUD/sZdl1fmvuoUehxPtBi91497dC7O9GfSUHPKsAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgY+/dLi1CL9xOxEM0NDIwsAklkJ1sMAAAA=[0mAkash Naik
+Running as SYSTEM
+Building remotely on [8mha:////4DKtZZ+fM2pk1oJXRkXrKiI2sooKam0flfynZVQn6ceGAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/eT83ILSktQi/SzdgqL8rNTkEgBUK7C9yAAAAA==[0mj-project (label2) in workspace /home/ubuntu/workspace/test
+[test] $ /bin/sh -xe /tmp/jenkins6374539457013176841.sh
++ cd /home/ubuntu/big2.sh 5 6
+/tmp/jenkins6374539457013176841.sh: 2: cd: can't cd to /home/ubuntu/big2.sh
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
